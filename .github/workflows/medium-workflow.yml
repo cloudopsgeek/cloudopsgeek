@@ -12,7 +12,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v1
-      - uses: cloudopsgeek/cloudopsgeek@master
+      - uses: gautamkrishnar/blog-post-workflow@master
         with:
           comment_tag_name: MEDIUM-POST-LIST
           feed_list: "https://medium.com/feed/@cloudopsgeek"
