@@ -15,5 +15,4 @@ jobs:
       - uses: cloudopsgeek/cloudopsgeek@master
         with:
           comment_tag_name: MEDIUM-POST-LIST
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           feed_list: "https://medium.com/feed/@cloudopsgeek"
