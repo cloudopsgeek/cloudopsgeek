@@ -6,9 +6,3 @@
 * :speech_balloon: You can ask me about AWS, GCP and Devops related queries and you can also drop your queries to :mailbox:
 * I love to travel in  :mountain_railway:
 
-
-### Connect with me:
-
-<a href="https://cloudopsgeek.in" <img align="left" alt="cloudopsgeek.in" width="22px"  src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" style="max-width:100%;" /></a>
-
-[![N|Solid](https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg)](https://cloudopsgeek.in) [![N|Solid](https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg)](https://twitter.com/cloudopsgeek) [![N|Solid](https://camo.githubusercontent.com/b65faae8871ebbdb99790f2644ea7f3c89800b0c/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6c696e6b6564696e2e737667)](https://www.linkedin.com/in/azhagiri/) [![N|Solid](https://camo.githubusercontent.com/e26c54b6c9c79fc96ef8e00d5cff3920853a6ada/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f6d656469756d2e737667)](https://medium.com/@cloudopsgeek)
