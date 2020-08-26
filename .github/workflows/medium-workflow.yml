@@ -4,7 +4,7 @@ on:
     branches: [ master ]
   schedule:
     # Runs every hour
-    - cron: '* * * * *'
+    - cron: '0 * * * *'
 
 jobs:
   update-readme-with-blog:
