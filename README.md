@@ -17,7 +17,7 @@
 [<img align="left" alt="CloudOpsGeek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@cloudopsgeek)
 <br />
 
-##  Recent Blog posts - From my personal blog
+##  Recent Blog posts - From my blog
 
 
 ## Recent Blog posts - From Medium
