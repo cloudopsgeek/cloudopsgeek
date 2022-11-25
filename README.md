@@ -19,6 +19,9 @@
 
 ##  Recent Blog posts - From my blog
 
+<!-- BLOG-POST-LIST:START -->
+
+<!-- BLOG-POST-LIST:END -->
 
 ## Recent Blog posts - From Medium
 <!-- MEDIUM-POST-LIST:START -->
