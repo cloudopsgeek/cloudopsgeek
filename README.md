@@ -17,6 +17,9 @@
 [<img align="left" alt="CloudOpsGeek | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />](https://medium.com/@cloudopsgeek)
 <br />
 
+##  Recent Blog posts - From my personal blog
+
+
 ## Recent Blog posts - From Medium
 <!-- MEDIUM-POST-LIST:START -->
 - [Filtering HTTP and HTTPS traffic using Squid proxy in GCP](https://medium.com/searce/filtering-http-and-https-traffic-using-squid-proxy-acbd7bd921b6?source=rss-1e6d7ee589e4------2)
