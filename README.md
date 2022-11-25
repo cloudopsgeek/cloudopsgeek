@@ -30,4 +30,5 @@
 - [Filtering HTTP and HTTPS traffic using Squid proxy in GCP](https://medium.com/searce/filtering-http-and-https-traffic-using-squid-proxy-acbd7bd921b6?source=rss-1e6d7ee589e4------2)
 <!-- MEDIUM-POST-LIST:END -->
 
-➡️ [more blog posts...](https://thedataguy.in)
+➡️ [more blog posts...](https://medium.com/@cloudopsgeek)
+
