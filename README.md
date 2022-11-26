@@ -20,7 +20,7 @@
 ##  Recent Blog posts - From my blog
 
 <!-- BLOG-POST-LIST:START -->
-
+- [Hello World](https://cloudopsgeek.in/hello-world/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://cloudopsgeek.in)
