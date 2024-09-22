@@ -21,7 +21,6 @@
 
 <!-- BLOG-POST-LIST:START -->
 - [Hello World-testing](https://cloudopsgeek.in/hello-world/)
-- [Posts Archive](https://cloudopsgeek.in/archive/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://cloudopsgeek.in)
