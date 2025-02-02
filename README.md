@@ -22,6 +22,7 @@
 ##  Recent Blog posts - From my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [Run a Command automatically when new EC2 Instances created Using Eventbridge and System Manager](https://cloudopsgeek.in/run-a-command-automatically-when-new-ec2-instances-created-using-eventbridge-and-system-manager/)
 - [Posts Archive](https://cloudopsgeek.in/archive/)
 <!-- BLOG-POST-LIST:END -->
 
