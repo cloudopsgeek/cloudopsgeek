@@ -22,6 +22,7 @@
 ##  Recent Blog posts - From my blog
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Take the MSSQL Table level Backup and Restore using python](https://cloudopsgeek.in/how-to-take-mssql-table-level-backup-and-restore/)
 - [Run a Command automatically when new EC2 Instances created Using Eventbridge and System Manager](https://cloudopsgeek.in/run-a-command-automatically-when-new-ec2-instances-created-using-eventbridge-and-system-manager/)
 - [Posts Archive](https://cloudopsgeek.in/archive/)
 <!-- BLOG-POST-LIST:END -->
